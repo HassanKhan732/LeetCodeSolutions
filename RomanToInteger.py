@@ -12,6 +12,4 @@ class Solution:
                     result += current_value
             else:
                 result += current_value
-        return result
-
-        
+        return result        
